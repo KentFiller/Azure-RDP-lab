@@ -1,4 +1,4 @@
-<h1>Failed RDP to IP Geolocation Information</h1>
+<h1>RDP Failed Login Attempts To IP Geolocation Information</h1>
 
 <h2>Description</h2>
 <b>This repository contains a PowerShell script designed to parse Windows Event Log information for failed RDP attacks. The script utilizes a third-party API to gather geographic information about the attackers' location.
