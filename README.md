@@ -56,7 +56,7 @@ Sentinel Workbook visualizes unsuccessful RDP login attempts on a world map to p
 <p align="center">
 <img src="https://iili.io/J7MlZXt.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
-<h2>World map visualization of Azure Sentinel data over approximately 24 hours</h2>
+<h2>World map visualization of Azure Sentinel data at approximately 24 hours</h2>
 <p align="center">
 <img src="https://iili.io/J7MlP7R.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
