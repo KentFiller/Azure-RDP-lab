@@ -60,7 +60,7 @@ Sentinel Workbook visualizes unsuccessful RDP login attempts on a world map to p
 <p align="center">
 <img src="https://iili.io/J7MlP7R.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
-<h2>Analysis after a continuous 7-8 day exposure to the public internet</h2>
+<h2>Analysis after a continuous 8 day exposure to the public internet</h2>
 <p align="center">
 <img src="https://iili.io/J7Mliep.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
