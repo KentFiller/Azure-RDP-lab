@@ -52,7 +52,7 @@ FAILED_RDP_WITH_GEO_CL
 This KQL script extracts relevant information from the custom logs and transforms it into a structured format for analysis. Key elements such as latitude, longitude, country, and sourcehost are identified and used to summarize the count of failed login events. This data is essential for creating visualizations in the Azure Sentinel Workbook.
 Sentinel Workbook visualizes unsuccessful RDP login attempts on a world map to provide a global overview. Plotting each point to represent a different attack simplifies analysis and pattern recognition.
 
-<h2>Azure Sentinel Overview data spanning 7 days</h2>
+<h2>Azure Sentinel Overview data spanning 8 days</h2>
 <p align="center">
 <img src="https://iili.io/J7MlZXt.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
